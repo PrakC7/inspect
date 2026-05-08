@@ -9,5 +9,4 @@ You may:
 
 You may not:
 - Re-upload the repository as your own work
-- Use the content commercially without permission
 - Remove original credits
